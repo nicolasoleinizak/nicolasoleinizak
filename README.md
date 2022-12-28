@@ -1,4 +1,4 @@
-Hola! Mi nombre es Nicolás Oleinizak y soy un desarrollador web fullstack con experiencia en tecnologías como HTML, CSS, JavaScript y PHP. Vivo en Argentina y me gusta mantenerme actualizado en las últimas tendencias y herramientas del mundo del desarrollo web, pero sobre todo mejorar día a día mis habilidades y plantearme nuevos desafíos.
+🖐 Hola! Mi nombre es Nicolás Oleinizak y soy un desarrollador web fullstack 💻🌐 con experiencia en tecnologías como HTML, CSS, JavaScript y PHP. Vivo en Argentina y me gusta mantenerme actualizado en las últimas tendencias y herramientas del mundo del desarrollo web, pero sobre todo mejorar día a día mis habilidades y plantearme nuevos desafíos.
 
 Trabajo actualmente en diferentes proyectos web con frameworks o librerías como React, Vue, Express y Laravel. Además, me interesa mucho la inteligencia artificial y el machine learning.
 
