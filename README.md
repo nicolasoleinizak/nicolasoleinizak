@@ -2,7 +2,9 @@
 
 I work now in various web projects using frameworks or libraries like React, Vue, Express and Laravel. Also, i'm very interested in AI and machine learning.
 
-One of my main interests is the atractive sites and application creation, easy to use and designed to solve needs from mine or those from the people close to me 💡. I like to work in projects (specially new projects!) that involves troubleshooting and user experience optimizing.
+Currently, I'm going deeper into AWS serverless aplications, and Flutter development as a way of reaching all the possibilities in matter of devices and portability.
+
+One of my main interests is the creation of application, easy to use and designed to solve needs from mine or those from the people close to me 💡. I like to work in projects (specially new projects!) that involves troubleshooting, architecture thinking, and figuring out how to help people.
 
 Recently i created a public Node CLI tool that includes some utilities to initialize an ExpressJS project. It is name ***Fastex*** and you can find it [here](https://github.com/nicolasoleinizak/fastex), and also collaborate in the project if you want to.
 
